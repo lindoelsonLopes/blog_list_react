@@ -17,7 +17,7 @@ const Navbar = ({ onSearch, searchTerm }) => {
     <AppBar position="fixed" sx={{ backgroundColor: '#17191f' }}>
       <Toolbar sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '1rem 2rem' }}>
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          <Link to="/" style={{ textDecoration: 'none', color: 'inherit', opacity: 1 }}>
+          <Link to="/blog_list_react/" style={{ textDecoration: 'none', color: 'inherit', opacity: 1 }}>
             Blog
           </Link>
         </Typography>
@@ -43,7 +43,7 @@ const Navbar = ({ onSearch, searchTerm }) => {
           
         />
         
-        <Button component={Link} to="/" color="inherit" sx={{ marginLeft: '2rem' }}>
+        <Button component={Link} to="/blog_list_react/" color="inherit" sx={{ marginLeft: '2rem' }}>
           Home
         </Button>
         <Button component={Link} to="/about" color="inherit">

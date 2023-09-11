@@ -36,7 +36,7 @@ const PostDetails = () => {
             <Typography variant="body2">{post.body}</Typography>
             <Button
               component={Link}
-              to="/"
+              to="/blog_list_react/"
               color="primary"
               variant="contained"
               sx={{ marginTop: '1rem' }}
