@@ -38,7 +38,9 @@ Antes de iniciar, certifique-se de ter instalado o Node.js em seu sistema.
 * Estilização com Material UI
 
 ## Veja o deploy do projeto ⤵️
-[Cliqui aqui para ver o deploy](https://lindoelsonlopes.github.io/blog_list_react/)
+
+<a href="https://lindoelsonlopes.github.io/blog_list_react/" target="_blank" rel="noopener">Clique aqui para ver o deploy</a>
+
 
 
 ## Estrutura do Projeto
